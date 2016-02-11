@@ -94,8 +94,6 @@ class ToBits {
 
        int nB = scan.nextInt();
 
-       System.out.println(nB);
-
         int a;
 
        for (int i = 0; i< nB; i++){
